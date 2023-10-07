@@ -1,2 +1,4 @@
 node_modules
 ./index.html
+src/assets/react.svg
+.gitignore
